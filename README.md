@@ -19,3 +19,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+----
+I followed
+https://coursetro.com/posts/code/139/Vue-Router-Tutorial---Using-Vue's-Router-Library
